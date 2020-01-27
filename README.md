@@ -8,7 +8,7 @@ The aim of this project is to analyse the data of Seattle's Airbnb listings obta
 
 ### Libraries needed
 
-The following lybraries are used in this project:
+The following libraries are used in this project:
 1) numpy
 2) pandas
 3) matplotlib
@@ -41,7 +41,7 @@ This as small and concise project on the tensorflow dataset of handwritten digit
 
 ### Libraries needed
 
-The following lybraries are used in this project:
+The following libraries are used in this project:
 1) numpy
 2) tensorflow
 3) tensorflow_datasets

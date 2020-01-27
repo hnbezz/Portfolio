@@ -33,7 +33,7 @@ I would like to express my gratitude to Simone Centellegher who provided on his 
 
 MNIST data project:
 
-This as small and concise project on the tensorflow dataset of handwritten digits. In this project I aim to concisely model the dataset. The dataset has basically no need for preprocessing, which is perfect for the goal of this project. I used a part of a course I've done in Udemy (https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) as the basis for this project.
+This as small and concise project on the tensorflow dataset of handwritten digits. In this project I aim to concisely model the dataset in order to predict handwritten digits. The dataset has basically no need for preprocessing, which is perfect for the goal of this project. I used a part of a course I've done in Udemy (https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) as the basis for this project.
 
 The following lybraries are used in this project:
 1) numpy

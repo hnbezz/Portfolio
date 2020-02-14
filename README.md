@@ -1,11 +1,21 @@
 # Portfolio
+
+##### Table of Contents  
+1. [ Airbnb data project. ](#Airbnb)
+1.1. [ Libraries needed. ](#Airbnb_lib)
+
+## 1. Description
+
+
  
 Right now there are four projects in this portfolio and they are described below.
 
+<a name="Airbnb"></a>
 ## Airbnb data project:
 
 The aim of this project is to analyse the data of Seattle's Airbnb listings obtained from the Udacity Nanodegree in Data Science. 
 
+<a name="Airbnb_lib"></a>
 ### Libraries needed
 
 The following libraries are used in this project:

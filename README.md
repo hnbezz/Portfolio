@@ -2,7 +2,6 @@
 
 ##### Table of Contents  
 1. [ Airbnb data project. ](#Airbnb)
-
    1.1. [ Libraries needed. ](#Airbnb_lib)
 
 ## 1. Description

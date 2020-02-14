@@ -2,36 +2,12 @@
 
 ##### Table of Contents  
 1. [ Airbnb data project. ](#Airbnb)
-
-   1.1. [ Libraries needed. ](#Airbnb_lib)
-   
-   1.2. [ Files needed. ](#Airbnb_files)
-   
-   1.3. [ Acknowledgments. ](#Airbnb_ack)
    
 2. [ MNIST data project. ](#mnist)
 
-   2.1. [ Libraries needed. ](#mnist_lib)
-   
-   2.2. [ Files needed. ](#mnist_files)
-   
-   2.3. [ Acknowledgments. ](#mnist_ack)
-
 3. [ Audiobook business case project. ](#audio)
-
-   3.1. [ Libraries needed. ](#audio_lib)
-   
-   3.2. [ Files needed. ](#audio_files)
-   
-   3.3. [ Acknowledgments. ](#audio_ack)
    
 4. [ Web application. ](#webapp)
-
-   4.1. [ Libraries needed. ](#webapp_lib)
-   
-   4.2. [ Files needed. ](#webapp_files)
-   
-   4.3. [ Acknowledgments. ](#webapp_ack)
 
 Right now there are four projects in this portfolio and they are described below.
 

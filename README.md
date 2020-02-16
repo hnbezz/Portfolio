@@ -29,7 +29,6 @@ The following libraries are used in this project:
 7) re
 8) os
 9) imageio
-10) tensorflow
 
 <a name="Airbnb_files"></a>
 ### Files needed

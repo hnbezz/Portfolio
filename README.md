@@ -1,17 +1,46 @@
 # Portfolio
 
 ##### Table of Contents  
-1. [ Airbnb data project. ](#Airbnb)
+
+1. [ Disaster Response Pipeline. ](#dr_pipeline)
+
+2. [ Airbnb data project. ](#Airbnb)
    
-2. [ MNIST data project. ](#mnist)
+3. [ MNIST data project. ](#mnist)
 
-3. [ Audiobook business case project. ](#audio)
+4. [ Audiobook business case project. ](#audio)
    
-4. [ Web application. ](#webapp)
+5. [ Web application. ](#webapp)
 
-5. [ Disaster Response Pipeline. ](#dr_pipeline)
+Right now there are five projects in this portfolio and they are described below.
 
-Right now there are four projects in this portfolio and they are described below.
+<a name="dr_pipeline"></a>
+## Disaster Response Pipeline
+
+The aim of this project is to showcase data engineering skills, including ETL (Extract-Transform-Load) pipeline, NLP (Natural Language Processing) and ML (Machine Learning) pipeline, using the built model in web app and applying some data visualizations. 
+
+<a name="dr_pipeline_lib"></a>
+### Libraries needed
+
+There are several libraries needed for this project, and they are in the file `requirements.txt`. The most important libraries being: flask, pandas, sklearn, imblearn, numpy and nltk.
+
+<a name="dr_pipeline_files"></a>
+### Important files description.
+
+- `data/disaster_messages.csv`: file with messages that can be related or not to a disaster.
+- `data/disaster_categories.csv`: file classifying the messages from `data/disaster_messages.csv` within several different categories.
+- `ETL Pipeline Preparation.ipynb`: The notebook used to understand the data, and do some trials on the data before finishing the ETL pipeline. Recomended to use to understand the process of building the ETL pipeline.
+- `ML Pipeline Preparation.ipynb.`The notebook used to model the data, and do some ML trials on the data before finishing the ML pipeline. Recomended to use to understand the process of building the ML pipeline.
+- `data/process_data.py`: ETL pipeline that cleans the data and saves it into a database.
+- `models/train_classifier.py`: ML pipeline that loads the data, train a model, evaluates the model and saves the model into a pickle file.
+- `models/classifier.pkl`: Saved model.
+- `app/templates/*.html`: HTML templates to build the web app.
+- `app/run.py`: Starts the server for the web app. 
+
+<a name="dr_pipeline_ack"></a>
+### Acknowledgements
+
+I would like to express my gratitude to Udacity Team for the very good course.
 
 <a name="Airbnb"></a>
 ## Airbnb data project:
@@ -120,30 +149,6 @@ The following libraries are used in this project:
 There are several different files needed in order to understand the web application and to add them all here would be pointless.
 
 <a name="webapp_ack"></a>
-### Acknowledgements
-
-I would like to express my gratitude to Udacity Team for the very good course.
-
-
-
-
-
-<a name="dr_pipeline"></a>
-## Disaster Response Pipeline
-
-The aim of this project is to showcase data engineering skills, including ETL (Extract-Transform-Load) and ML (Machine Learning) pipelines, using the built model in web app and applying some data visualizations. 
-
-<a name="dr_pipeline_lib"></a>
-### Libraries needed
-
-There are several libraries needed for this project, and they are in the file ´requirements.txt´. The most important libraries being: pandas, sklearn, imblearn, numpy and nltk.
-
-<a name="dr_pipeline_files"></a>
-### Important files description.
-
-
-
-<a name="dr_pipeline_ack"></a>
 ### Acknowledgements
 
 I would like to express my gratitude to Udacity Team for the very good course.

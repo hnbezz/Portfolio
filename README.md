@@ -134,7 +134,7 @@ I would like to express my gratitude to Udacity Team for the very good course.
 <a name="sparkify"></a>
 ## Sparkify - Churn Prediction
 
-The project aims to predict user churns from a music app, using PySpark, showcasing my abilities with Spark. The code was written in Python 3, and the libraries used are described below. To fully understand the project, one should first read this README.md, then check the file `Sparkify_EDA.ipynb` and finally check `Final_sparkify.ipynb`.
+The project aims to predict user churns from a music app, using PySpark, showcasing my abilities with Spark. The code was written in Python 3, and the libraries used are described below. To fully understand the project, one should first read this README.md, extract the data from `mini_sparkify_event_data.zip`, then check the file `Sparkify_minidataset_EDA.ipynb` and finally check `Final_sparkify.ipynb`.
 
 ### Libraries needed
 
@@ -155,6 +155,8 @@ There are several libraries needed for this project, including:
 
 - `Sparkify_minidataset_EDA.ipynb`: file with the exploratory data analysis.
 - `Final_sparkify.ipynb`: file with the data cleaning, data preprocessing, feature engineering and modelling. 
+- `mini_sparkify_event_data.zip`: data used in the project.
+
 
 ### Results and improvements.
 

@@ -9,6 +9,8 @@
 3. [ Audiobook business case project. ](#audio)
    
 4. [ Web application. ](#webapp)
+ 
+5. [ Sparkify - Churn prediction. ](#sparkify)
 
 Right now there are four projects in this portfolio and they are described below.
 
@@ -127,5 +129,39 @@ There are several different files needed in order to understand the web applicat
 ### Acknowledgements
 
 I would like to express my gratitude to Udacity Team for the very good course.
+
+
+<a name="sparkify"></a>
+## Sparkify - Churn Prediction
+
+The project aims to predict user churns from a music app, using PySpark, showcasing my abilities with Spark. The code was written in Python 3, and the libraries used are described below. To fully understand the project, one should first read this README.md, then check the file `Sparkify_EDA.ipynb` and finally check `Final_sparkify.ipynb`.
+
+### Libraries needed
+
+There are several libraries needed for this project, including:
+
+- Pyspark
+- Numpy
+- Matplotlib
+- Pandas
+- Datetime
+- Re
+- statsmodel
+- Scipy
+- Seaborn
+
+
+### Important files description.
+
+- `Sparkify_minidataset_EDA.ipynb`: file with the exploratory data analysis.
+- `Final_sparkify.ipynb`: file with the data cleaning, data preprocessing, feature engineering and modelling. 
+
+### Results and improvements.
+
+The results show a recall of 0.82 and a F1-score of 0.84 with the model chosen. This results probably can be largely improved with i) a larger dataset (it was used data from less than 200 users); ii) time segmented data to understand the behavior of churned users just before churning, and iii) a larger gridsearch, among other possible improvements.
+
+### Acknowledgements.
+
+I would like to express my gratitude to Simone Centellegher who provided on his github a beautiful way to plot bar graphs, which I usually find rather dull. link accessable on Jan/27/2020: https://scentellegher.github.io/visualization/2018/10/10/beautiful-bar-plots-matplotlib.html
 
 

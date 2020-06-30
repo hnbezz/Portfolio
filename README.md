@@ -208,7 +208,7 @@ There are several libraries needed for this project, including:
 
 The model managed to achieve an accuracy of 0.6796, which would place the model in the 4th place of the relevant kaggle competition, as shown by the image below.
 
-![Alt Text](Leaderboard.png)
+[What is this](Leaderboard.png)
 
 As usual, there is still place for improvements, which I believe would by i) managing to balance the data, ii) hyperparameters inprovement (both in the model itself, and in the data augmentation used), among others.
 

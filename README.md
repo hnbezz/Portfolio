@@ -180,7 +180,7 @@ I would like to express my gratitude to Simone Centellegher who provided on his 
 
 This project aims to perform recognition of face expressions through real-time feed. Firstly it was trained a convolutional neural network (deep learning) on the famous `fer2013.csv` file. One can try to run the real-time face expression recognition using the command `python3 emotion_demo_final.py` (you will need to have the relevant python libraries installed, and a webcam). Below one can see an example of the real-time feed face expression recognition.
 
-![Alt Text](GIF_on_trained_model.gif)
+![alt text](https://github.com/hnbezz/Portfolio/blob/master/Face%20Exp.%20Recogn/GIF_on_trained_model.gif?raw=true)
 
 ### Libraries needed
 
@@ -208,7 +208,7 @@ There are several libraries needed for this project, including:
 
 The model managed to achieve an accuracy of 0.6796, which would place the model in the 4th place of the relevant kaggle competition, as shown by the image below.
 
-![alt text](https://github.com/hnbezz/Portfolio/blob/master/Face%20Exp.%20Recogn/GIF_on_trained_model.gif?raw=true)
+![alt text](https://github.com/hnbezz/Portfolio/blob/master/Face%20Exp.%20Recogn/Leaderboard.png?raw=true)
 
 As usual, there is still place for improvements, which I believe would by i) managing to balance the data, ii) hyperparameters inprovement (both in the model itself, and in the data augmentation used), among others.
 

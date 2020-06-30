@@ -87,7 +87,10 @@ I would like to express my gratitude to Udacity Team for the very good course.
 <a name="Airbnb"></a>
 ## Airbnb data project:
 
-The aim of this project is to analyse the data of Seattle's Airbnb listings obtained from the Udacity Nanodegree in Data Science. 
+The aim of this project is to analyse the data of Seattle's Airbnb listings obtained from the Udacity Nanodegree in Data Science. For example one can see the evolution of AirBnB in Seattle in the gif below.
+
+![alt text](https://github.com/hnbezz/Portfolio/blob/master/AirBnB_data_project/rise_airbnb.gif?raw=true)
+
 
 <a name="Airbnb_lib"></a>
 ### Libraries needed
